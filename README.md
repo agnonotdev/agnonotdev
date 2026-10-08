@@ -6,7 +6,7 @@
 
 <br>
 
-<img alt="Studying Software Engineering at UPC" src="https://img.shields.io/badge/Studying-Software%20Engineering%20%C2%B7%20UPC-8B5CF6?style=flat-square">
+<a href="https://www.upc.edu.pe/"><img alt="Studying Software Engineering at UPC" src="https://img.shields.io/badge/Studying-Software%20Engineering%20%C2%B7%20UPC-8B5CF6?style=flat-square"></a>
 <img alt="Team: DiscoTech" src="https://img.shields.io/badge/Team-DiscoTech-8B5CF6?style=flat-square">
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=agnonotdev&label=Profile%20views&style=flat-square&color=8B5CF6">
 
@@ -16,8 +16,8 @@
 
 ## About
 
-I'm a Software Engineering student at the Peruvian University of Applied Sciences (Universidad Peruana de Ciencias
-Aplicadas, or UPC, after its Spanish name), in Peru. I build things around Discord: bots, dashboards and small tools that save time. Most of it is Node.js and TypeScript,
+I'm a Software Engineering student at the [Peruvian University of Applied Sciences](https://www.upc.edu.pe/) (Universidad Peruana de
+Ciencias Aplicadas, or UPC, after its Spanish name), in Peru. I build things around Discord: bots, dashboards and small tools that save time. Most of it is Node.js and TypeScript,
 with a Next.js dashboard when a bot needs a control panel, and Python when a script or an analysis is the better fit.
 I also write C++ for coursework and small console projects.
 
